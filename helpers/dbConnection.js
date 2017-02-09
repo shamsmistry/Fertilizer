@@ -23,8 +23,8 @@ var sequelize = require('sequelize');
  * @property sequelizeConnection
  * @type Object
  */
-var sequelizeConnection = new sequelize('linkagoal_db_8aug2016', 'root', '', {
-    host: 'localhost',
+var sequelizeConnection = new sequelize('XXXXXXXXXXXX', 'XXX', 'XXX', {
+    host: 'XXXXX',
     dialect: 'mysql',
     define: {
         timestamps: false

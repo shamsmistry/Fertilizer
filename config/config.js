@@ -10,8 +10,8 @@
  * @type Object
  */
 exports.baseUrl = {
-    fileServer: 'http://localhost:3001/',
-    apiServer: 'http://localhost:3000/'
+    fileServer: 'XXXXXXXXXXXXXXXXXXXXXXX',
+    apiServer: 'XXXXXXXXXXXXXXXXXXXXXXX'
 };
 
 /**
@@ -20,7 +20,7 @@ exports.baseUrl = {
  * @type Object
  */
 exports.listenPorts = {
-    port: 3001
+    port: 'XXXX'
 };
 
 /**
@@ -29,9 +29,9 @@ exports.listenPorts = {
  * @type Object
  */
 exports.defaultImages = {
-    profile: 'default_profile.jpg',
-    cover: 'default_cover.jpg',
-    goal: 'default_goal.jpg'
+    profile: 'XXXX',
+    cover: 'XXXX',
+    goal: 'XXXX'
 };
 
 /**
@@ -328,8 +328,8 @@ exports.validRotationDegree = {
  * @type Object
  */
 exports.encryption = {
-    salt: "b6a4907f78fb5fe40133ff2c77a782cd77662f00cd98536f0db6a16044867e26",
-    size: 40
+    salt: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    size: "XX"
 };
 
 /**
@@ -367,7 +367,7 @@ exports.webURL = {
  * @type Object
  */
 exports.giphy = {
-    apiKey: 'dc6zaTOxFJmzC'
+    apiKey: 'XXXXXXXXXXXXXXXX'
 };
 
 /**
